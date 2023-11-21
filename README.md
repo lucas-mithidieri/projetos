@@ -1,6 +1,6 @@
 ## 👻 Seja muito bem vindo ao meu repositório!
 
-A seguir você encontra uma série de projetos que realizei na área de Dados dos mais variados casos utilizando a linguagem Python.
+A seguir você encontra uma série de projetos que realizei na área de Dados utilizando a linguagem Python via Jupyter Lab.
 * [Previsão de chamados de taxi](https://github.com/lucas-mithidieri/projetos/blob/main/cab_orders_forecasting.ipynb) - (Data Analysis | Machine Learning | Forecasting)
 *  [Classificação de Idade de clientes através de imagem](https://github.com/lucas-mithidieri/projetos/blob/main/image_classification_age_app.ipynb)  - (Data Analysis | Deep Learning | Computer vision)
 *  [Classificação de Sentimento em textos](https://github.com/lucas-mithidieri/projetos/blob/main/sentiment_analysis_movies.ipynb) - (Data Analysis | Machine Learning | Sentiment Analysis)
