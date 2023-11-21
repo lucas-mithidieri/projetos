@@ -8,5 +8,5 @@ A seguir você encontra uma série de projetos que realizei na área de Dados do
 *  [Classificação de Sentimento em textos](https://github.com/lucas-mithidieri/projetos/blob/main/sentiment_analysis_movies.ipynb) - (Data Analysis | Machine Learning | Sentiment Analysis)
 *  [Análise de Preferências musicais](https://github.com/lucas-mithidieri/projetos/blob/main/music_preferences_analysis.ipynb) (Data Analysis)
 ___
-💼 [Linkedin](https://www.linkedin.com/in/lucas-mithidieri-pires/)
+ 💼 [Linkedin](https://www.linkedin.com/in/lucas-mithidieri-pires/)
 
