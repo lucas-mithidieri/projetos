@@ -1,4 +1,4 @@
-## 👻 Seja muito bem vindo ao meu repositório!
+## 👻 Seja muito bem vindo !
 
 A seguir você encontra uma série de projetos que realizei na área de Dados utilizando a linguagem Python via Jupyter Lab.
 | Projeto              | Descrição                | Categorias                 |
