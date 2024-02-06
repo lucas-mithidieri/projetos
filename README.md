@@ -1,4 +1,4 @@
-## 👻 Seja muito bem vindo aos meus Projetos de Data Science!
+## 👻 Projetos de Data Science
 
 A seguir você encontra uma série de projetos que realizei na área de Dados utilizando a linguagem Python via Jupyter Lab.
 | Projeto              | Descrição                | Categorias                 |
